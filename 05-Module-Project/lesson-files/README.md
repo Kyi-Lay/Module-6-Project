@@ -1,14 +1,14 @@
-# Git It Done 
+# Git It Done
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
-## Description 
-This project is a web application that uses GitHub's API to search for open source projects with open issues and pull requests. This applications uses the browser's Fetch API to communicate with the server. 
+## Description
+This project is a web application that uses GitHub's API to search for open source projects with open issues and This application uses the browser's Fetch API to communicate with the server. 
 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
+* [Contributing](#contribunting)
 * [Tests](#tests)
 * [Questions](#questions)
 
